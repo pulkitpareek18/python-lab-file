@@ -1,4 +1,4 @@
-# Ask the user to enter a list with numbers between 0-9. Then replace all the entries in the list with 10 that are greater than 10.
+# Ask the user to enter a list with numbers between 0-9. Then replace all the entries in the list with 10 that are greater than 7.
 
 lst = []
 n = int(input("Enter the number of elements in the list: "))
